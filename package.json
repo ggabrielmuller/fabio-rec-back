@@ -1,0 +1,13 @@
+{
+  "name": "fabio-rec-back",
+  "version": "1.0.0",
+  "description": "Sistema de cadastro com Node, Express e SQLite",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4",
+    "sqlite3": "^5.1.6"
+  }
+}
